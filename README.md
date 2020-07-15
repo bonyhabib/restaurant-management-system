@@ -1,6 +1,6 @@
-# Licence
+# License
 
 
-MIT License
+**MIT License**
 
-Copyright (c) 2020 Ashiqul Habib
+**Copyright (c) 2020 Ashiqul Habib**
